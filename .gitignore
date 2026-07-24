@@ -47,3 +47,6 @@ next-env.d.ts
 
 # seed data
 /data/
+
+# python
+__pycache__/
